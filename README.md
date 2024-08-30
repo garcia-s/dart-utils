@@ -1,2 +1,3 @@
-# dart-utils
-Utilities for Dart so I don't have to rewrite them on projects.
+# Dart Utils
+
+Utils for dart so I don't have to rewrite theme everytime
