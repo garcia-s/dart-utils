@@ -1,5 +1,3 @@
-library;
-
 import "dart:async";
 
 class Option<L, R> {
